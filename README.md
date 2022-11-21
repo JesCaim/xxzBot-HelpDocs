@@ -278,7 +278,7 @@
 ## 涩图
 
 - 名称: `涩图`
-- 说明: `hso!`
+- 说明: `hso!（已屏蔽R18标签）`
 - 权限: `所有人`
 
 ---
@@ -290,7 +290,7 @@
 - 需要at: `否`
 - 更多别名: `涩图来、来点涩图、来份涩图`
 
-![img](https://jescaim-personal-images.oss-cn-hangzhou.aliyuncs.com/VIA}$VLE897PFU3SXXKY%PB.png)
+![image-20221121230439261](https://jescaim-personal-images.oss-cn-hangzhou.aliyuncs.com/image-20221121230439261.png)
 
 ### 来\[张点丶份](.*?)的[涩色]图
 
