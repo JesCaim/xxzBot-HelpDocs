@@ -54,6 +54,7 @@
   - [漂流瓶](#漂流瓶)
   - [头像表情包](#头像表情包)
   - [ChatGPT](#ChatGPT)
+  - [随机龙图](随机龙图)
 
 ---
 
@@ -490,6 +491,40 @@
 - 更多别名: `无`
 
 ![image-20221208232812552](https://jescaim-personal-images.oss-cn-hangzhou.aliyuncs.com/image-20221208232812552.png)
+
+------
+
+
+
+## 随机龙图
+
+- 名称: `随机龙图`
+- 说明: `顾名思义(图库越1500张)`
+- 权限: `所有人`
+
+### 随机龙图
+
+- 说明: `抽取一张龙图`
+- 权限: `所有人`
+- 需要at: `否`
+- 更多别名: `无`
+
+![image-20221213005336149](https://jescaim-personal-images.oss-cn-hangzhou.aliyuncs.com/image-20221213005336149.png)
+
+### 添加随机龙图 [图片]
+
+- 说明: `添加一张龙图到库中(支持回复图片)`
+- 权限: `管理员，Master`
+- 需要at: `否`
+- 更多别名: `无`
+
+![image-20221213005549733](https://jescaim-personal-images.oss-cn-hangzhou.aliyuncs.com/image-20221213005549733.png)
+
+![image-20221213005737108](https://jescaim-personal-images.oss-cn-hangzhou.aliyuncs.com/image-20221213005737108.png)
+
+
+
+
 
 ------
 
