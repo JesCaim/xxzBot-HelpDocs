@@ -548,7 +548,7 @@
 - 说明: `基于VITS模型合成角色语音`
 - 权限: `所有人`
 
-> 在[Gal-Voice-Bot](https://github.com/TheKOG/Gal-Voice-Bot)的代码基础上复写了knd模型的部分。（knd模型由@nya提供，[项目地址]([Kanade-nya/PJSK-MultiGUI: PJSK-Vits GUI (github.com)](https://github.com/Kanade-nya/PJSK-MultiGUI))）
+> 在[Gal-Voice-Bot](https://github.com/TheKOG/Gal-Voice-Bot)的代码基础上复写了knd模型的部分。（knd模型由@nya提供，[项目地址](https://github.com/Kanade-nya/PJSK-MultiGUI)）
 
 > 暂无计划更新其他PJSK角色的模型，~~敬请期待~~
 
