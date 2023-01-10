@@ -2,11 +2,13 @@
 
 
 
-> **pjsk查询服务传送门**：[分布式unibot帮助文档](https://bot.unijzlsx.com/)
+> **pjsk查询服务传送门**：[unibot帮助文档](https://bot.unijzlsx.com/)
 
 > 全局命令前缀：'/'   '小小奏'   ‘@小小奏’
 
-> **邀请进群**联系维护者：1920578206
+> **邀请进群**联系维护者：[1920578206](tencent://Message/?Uin=1920578206&websiteName=www.oicqzone.com&Menu=yes)
+
+> 欢迎加入bot小群：[362250919](https://jq.qq.com/?_wv=1027&k=W9ayapTv)，欢迎进群游玩交流/获取通知/提供建议
 
 
 
@@ -255,6 +257,8 @@
 - 在线获取视api和代理情况可能会比较慢
 
 - cd有则为一分钟
+
+- 群聊有`0.01`概率随机回复表情包
 
 ![image-20230109235948661](https://jescaim-personal-images.oss-cn-hangzhou.aliyuncs.com/image-20230109235948661.png)
 
@@ -610,6 +614,8 @@
 > 语音合成失败的原因可能是文本中出现了不合法的标点符号
 
 > 请勿频繁使用该功能或文本使用超长句子，服务器cpu占用率长时间100%可能炸服
+
+群聊有`0.1`概率语音回复含"我"的消息
 
 ![image-20221219151146924](https://jescaim-personal-images.oss-cn-hangzhou.aliyuncs.com/image-20221219151146924.png)
 
